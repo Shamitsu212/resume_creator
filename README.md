@@ -17,6 +17,6 @@
 | Функционал | Скриншот | Описание |
 |------------|----------|----------|
 | Drag & Drop | <img src="./Preview/dragdrop.png" width="300" /> | Перетаскивание блоков резюме |
-| Экспорт PDF | <img src="./Preview/resume-example.pdf" width="300" /> | Пример резюме в  |
+| Экспорт PDF | <img src="./Preview/resume-example.pdf" width="300" /> | Пример резюме в PDF |
 
 ---
