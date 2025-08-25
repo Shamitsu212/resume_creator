@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 Используемый стекhttps://shamitsu212.github.io/resume_creator/
+## 🚀 Используемый стек
 <p>
   <img src="https://skillicons.dev/icons?i=react,js,html,css" />
 </p>
